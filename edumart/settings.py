@@ -89,7 +89,7 @@ CACHES = {
     }
 }
 
-#AUTH_USER_MODEL = 'center.User'
+AUTH_USER_MODEL = 'edumart.User'
 # USER_FIELDS = (
 #    'email',
 #    'username',
